@@ -5,7 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
@@ -26,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Tsegaw Kelela Worku"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Bahir Dar University, Ethiopia and Software Developer using Java and Python. Have more than 12 Years of experience in building Enterprise web applciations using Oracle, MS-SQL Server and PostgreSQL as database backends  "
+  bio              : "PhD student at Bahir Dar University, Ethiopia and Software Developer using Java and Python. Have more than 12 years of experience in building Enterprise web applciations using Oracle, MS-SQL Server and PostgreSQL as database backends  "
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "Bahir Dar University"
+  uri              : "https://tsegaw-ds.github.io/"
+  email            : "tsegaw.kelela@bdu.edu.et" 
 
   # Academic websites
   academia         : # URL
