@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tsegaw Kelela Worku"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student at Bahir Dar University, Ethiopia and Software Developer using Java and Python. More than 12 Years of experience in building Enterprise web applciations using Oracle, MS-SQL Server and PostgreSQL as database backends  "
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
