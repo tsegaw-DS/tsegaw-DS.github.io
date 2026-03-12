@@ -26,4 +26,5 @@ He has received several recognitions and awards from various organizations, incl
 3. Certificate of Appreciation for completion of the Donor Resource Tracking and Monitoring System (DRTMS), Amhara Regional State Bureau of Finance, October 31, 2020.
 
 4. Certificate of Project Success from BIMER Import and Export Group, Addis Ababa, February 2, 2026.
-5. Letter of recognition for extra ordinary contribution issued by Professor Baylie Damtie Yeshita, president of Bahir Dar University, September 29/2018
+   
+6. Letter of recognition for extra ordinary contribution issued by Professor Baylie Damtie Yeshita, president of Bahir Dar University, September 29/2018.
