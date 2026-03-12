@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "About Tsegaw Kelela Worku"
+title: "Short Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-**Short Bio**
+
 Tsegaw Kelela is a PhD student in Computer Science, specializing in Data Science, at the Faculty of Computing, Bahir Dar Institute of Technology, Bahir Dar University, Ethiopia. He previously earned an MSc in Information Science from Addis Ababa University in 2009 and a BSc in Management Information Systems from Unity University in 2006.
 
 Currently, Tsegaw serves as a lecturer at Bahir Dar University. In addition to his academic career, he has more than 12 years of professional experience in software development, particularly in designing and implementing enterprise web applications for procurement, finance, fleet management, and ERP systems.
